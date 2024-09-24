@@ -9,10 +9,10 @@
 ![83092d46dfbcaf4712a07d56db76c880](https://github.com/user-attachments/assets/5ac80e64-733c-4fff-96b8-3f150ef4c94e)
 
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5IrgtJCDPnRbm6lbFVFMa9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 
 
 
-src="https://open.spotify.com/embed/playlist/5IrgtJCDPnRbm6lbFVFMa9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
